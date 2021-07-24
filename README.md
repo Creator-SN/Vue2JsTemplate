@@ -1,24 +1,25 @@
-# vue2template
+# 项目名 Project Name
 
-## Project setup
-```
-yarn install
+[logo]
+
+## 作者 Author
+## 环境 Environment
+- nodejs 14+(with yarn)
+- vue 2
+
+## 命令 Commands 
+
+- 安装依赖 Install Dependencies
+``` sh
+yarn
 ```
 
-### Compiles and hot-reloads for development
-```
+- 运行Development服务器
+``` sh
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
+- 构建生产环境项目
+``` sh
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

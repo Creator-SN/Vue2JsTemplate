@@ -1,0 +1,14 @@
+// reset default styles
+@import "./clear.scss";
+// position module
+@import "./position.scss";
+// office
+@import "./office.scss";
+
+// app
+@mixin app {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
